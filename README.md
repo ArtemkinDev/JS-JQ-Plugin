@@ -10,4 +10,5 @@ Useful JS plugins that I use
 <li>https://formspree.io/ - Отправка заявок с сайта</li>
 <li>https://www.kunkalabs.com/mixitup/ - Сортабельные анимированные плитки</li>
 <li>https://gopalraju.github.io/gridtab - Табы</li>
+<li>https://williamngan.github.io/roll/demo/# - Scroll</li>
 </ul>
